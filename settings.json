@@ -1,7 +1,7 @@
 {
     "dart.previewFlutterUiGuides": true,
     "todo-tree.tree.showScanModeButton": false,
-    "editor.fontSize": 14,
+    "editor.fontSize": 15,
     "[json]": {},
     "material-icon-theme.folders.associations": {
         "global_state": "global",
@@ -39,7 +39,9 @@
     },
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.fontFamily": "Fira Code",
-    "launch": {},
+    "launch": {
+        "version": "0.2.0"
+    },
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": null,
     "window.zoomLevel": 0,
@@ -52,4 +54,13 @@
         80
     ],
     "editor.wordWrap": "wordWrapColumn",
+    "dart.debugExternalLibraries": true,
+    "dart.debugSdkLibraries": true,
+    "editor.semanticTokenColorCustomizations": null,
+    "gitlens.currentLine.dateFormat": "",
+    "gitlens.codeLens.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.languageServer": "Microsoft",
+    "workbench.editor.enablePreview": false
 }
